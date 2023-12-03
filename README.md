@@ -40,7 +40,7 @@ O dataframe é analisado utilizando Pandas, incluindo:
 - Análise estatística descritiva
 - Visualizações com Matplotlib e Seaborn
 
-  ## Notebook de Análise
+## Notebook de Análise
 
 O código completo de análise pode ser visto neste Colab:
 
